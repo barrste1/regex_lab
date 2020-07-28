@@ -1,0 +1,13 @@
+C:\Users\Stephen Barr (Work)\source\repos\07272020_REGEX lab\bin\Debug\netcoreapp3.1\07272020_REGEX lab.exe
+C:\Users\Stephen Barr (Work)\source\repos\07272020_REGEX lab\bin\Debug\netcoreapp3.1\07272020_REGEX lab.deps.json
+C:\Users\Stephen Barr (Work)\source\repos\07272020_REGEX lab\bin\Debug\netcoreapp3.1\07272020_REGEX lab.runtimeconfig.json
+C:\Users\Stephen Barr (Work)\source\repos\07272020_REGEX lab\bin\Debug\netcoreapp3.1\07272020_REGEX lab.runtimeconfig.dev.json
+C:\Users\Stephen Barr (Work)\source\repos\07272020_REGEX lab\bin\Debug\netcoreapp3.1\07272020_REGEX lab.dll
+C:\Users\Stephen Barr (Work)\source\repos\07272020_REGEX lab\bin\Debug\netcoreapp3.1\07272020_REGEX lab.pdb
+C:\Users\Stephen Barr (Work)\source\repos\07272020_REGEX lab\obj\Debug\netcoreapp3.1\07272020_REGEX lab.csprojAssemblyReference.cache
+C:\Users\Stephen Barr (Work)\source\repos\07272020_REGEX lab\obj\Debug\netcoreapp3.1\07272020_REGEX lab.AssemblyInfoInputs.cache
+C:\Users\Stephen Barr (Work)\source\repos\07272020_REGEX lab\obj\Debug\netcoreapp3.1\07272020_REGEX lab.AssemblyInfo.cs
+C:\Users\Stephen Barr (Work)\source\repos\07272020_REGEX lab\obj\Debug\netcoreapp3.1\07272020_REGEX lab.csproj.CoreCompileInputs.cache
+C:\Users\Stephen Barr (Work)\source\repos\07272020_REGEX lab\obj\Debug\netcoreapp3.1\07272020_REGEX lab.dll
+C:\Users\Stephen Barr (Work)\source\repos\07272020_REGEX lab\obj\Debug\netcoreapp3.1\07272020_REGEX lab.pdb
+C:\Users\Stephen Barr (Work)\source\repos\07272020_REGEX lab\obj\Debug\netcoreapp3.1\07272020_REGEX lab.genruntimeconfig.cache
